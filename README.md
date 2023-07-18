@@ -32,7 +32,7 @@ To play with the code locally:
 ## Acknowledgements
 
 This project would not have been possible without the following amazing projects:
-* [GPX Studio]([https://leafletjs.com/](https://github.com/gpxstudio/gpxstudio.github.io)): The seed to this project donate here [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1303GH)
+* [GPX Studio](https://github.com/gpxstudio/gpxstudio.github.io): The seed to this project donate here [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1303GH)
 * [Leaflet](https://leafletjs.com/): awesome map library
 * [leaflet-gpx](https://github.com/mpetazzoni/leaflet-gpx): parsing GPX files
 * [Leaflet.Heightgraph](https://github.com/GIScience/Leaflet.Heightgraph): elevation profile
